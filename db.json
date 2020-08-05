@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "nome": "Front End",
+    "descrição": "uma categoria muito legal",
+    "cor": "#cbdlff"
+  },
+  {
+    "id": 2,
+    "nome": "Back End",
+    "descrição": "uma categoria muito legal",
+    "cor": "#cbdlff"
+  }
+]
